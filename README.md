@@ -4,6 +4,13 @@
 1. [AndrewGrizhenkov](https://github.com/AndrewGrizhenkov) - 9 commits
 1. [dependabot[bot]](https://github.com/dependabot[bot]) - 4 commits
 1. [parroty](https://github.com/parroty) - 2 commits
+
+
+
+## This Month's Most Active Contributors
+
+
+
 # GitHub Copilot Metrics Viewer
 <p align="center">
   <img width="150" alt="image" src="https://github.com/github-copilot-community/copilot-metrics-viewer/assets/3329307/8473a694-217e-4aa2-a3c7-2222a321c336">
