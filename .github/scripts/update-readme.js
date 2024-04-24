@@ -1,7 +1,7 @@
 const fs = require('fs');
 const axios = require('axios');
 
-async function getTopContributors(AndrewGrizhenkov, copilot-metrics-viewer) {
+async function getTopContributors(owner, repo) {
     const { data } = await axios.get(`https://api.github.com/repos/${owner}/${repo}/contributors`);
     return data.slice(0, 10).map(contributor => ({
         login: contributor.login,
@@ -16,4 +16,4 @@ async function updateReadme(owner, repo) {
     fs.writeFileSync('README.md', updatedReadme);
 }
 
-updateReadme('owner', 'repo');
+updateReadme('AndrewGrizhenkov', 'copilot-metrics-viewer');
