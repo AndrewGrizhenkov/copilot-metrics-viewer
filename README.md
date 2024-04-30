@@ -10,8 +10,8 @@
 ## This Month's Most Active Contributors
 
 1. [martedesco](https://github.com/martedesco) - 28 commits
-1. [AndrewGrizhenkov](https://github.com/AndrewGrizhenkov) - 17 commits
-1. [dependabot[bot]](https://github.com/dependabot[bot]) - 2 commits
+1. [AndrewGrizhenkov](https://github.com/AndrewGrizhenkov) - 18 commits
+1. [dependabot[bot]](https://github.com/dependabot[bot]) - 1 commits
 # GitHub Copilot Metrics Viewer
 <p align="center">
   <img width="150" alt="image" src="https://github.com/github-copilot-community/copilot-metrics-viewer/assets/3329307/8473a694-217e-4aa2-a3c7-2222a321c336">
